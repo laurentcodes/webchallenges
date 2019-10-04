@@ -14,6 +14,10 @@ To run my examples on your PC :
 
 This would be found in the one folder, a basic landing page.
 
+## Challenge 2
+
+This would be found in the two folder, nice looking animated button.
+
 ### Links:
 
 1. Live-server (npm): https://www.npmjs.com/package/live-server
