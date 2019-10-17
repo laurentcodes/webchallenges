@@ -18,6 +18,10 @@ This would be found in the one folder, a basic landing page.
 
 This would be found in the two folder, nice looking animated button.
 
+## Challenge 3
+
+A simple login modal
+
 ### Links:
 
 1. Live-server (npm): https://www.npmjs.com/package/live-server
